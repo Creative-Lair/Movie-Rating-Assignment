@@ -1,0 +1,4 @@
+#Mon Oct 23 20:15:33 PKT 2017
+base.0=C\:\\Users\\AHSAN\\Google Drive\\Creative Lair\\Assignments\\MovieRatings\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\AHSAN\\Google Drive\\Creative Lair\\Assignments\\MovieRatings\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
